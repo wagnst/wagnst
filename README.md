@@ -2,5 +2,5 @@
 ```bash
 My name is Steffen Wagner. I live in Berlin, the capital of Germany.
 Currently working a lot with Azure, AWS & GCP, Network Architecture, Distributed Computing, 
-Kubernetes & Containers, DevOps
+Kubernetes & Containers. I do have some agile skills to work as technical product owner :-)
 ```
